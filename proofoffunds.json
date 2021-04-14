@@ -1,0 +1,22 @@
+{
+	"btc": {
+		"a": "bc1qknnrtr47lr2vs9gv4qftsp5xg6c3x44wng35em",
+		"b": "bc1qknnrtr47lr2vs9gv4qftsp5xg6c3x44wng35em"
+	},
+	"ltc": {
+		"a": "ltc1qdtr5egwl8xdmz2yv0kql9z7x99lfawsdc7cwzn",
+		"b": "ltc1qdtr5egwl8xdmz2yv0kql9z7x99lfawsdc7cwzn"
+	},
+	"doge": {
+		"a": "DNiFzVDY6GecseLQyJM9doyMCA7ADrukKb",
+		"b": "DNiFzVDY6GecseLQyJM9doyMCA7ADrukKb"
+	},
+	"nano": {
+		"a": "nano_3ceb546neoqp6gkinuqasn41698geeepdfnuj5c6oemaqiyizom5cuut1q3w",
+		"b": "nano_3ceb546neoqp6gkinuqasn41698geeepdfnuj5c6oemaqiyizom5cuut1q3w"
+	},
+	"bch": {
+		"a": "qrvhy3tu5a0n8923mysk4vev4va7e4r7nqf5juns4f",
+		"b": "nano_3ceb546neoqp6gkinuqasn41698geeepdfnuj5c6oemaqiyizom5cuut1q3w"
+	}
+}
